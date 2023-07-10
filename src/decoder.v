@@ -35,4 +35,3 @@ module seg7 (
     end
 
 endmodule
-
